@@ -1,11 +1,11 @@
 # Rahbar - Social Media Content Planning
 
 ## Project Overview
-A strategic social media content plan for Webber focus on building brand awareness engaging students and parents and promoting education and career guidance
+A strategic social media content plan for Rahbar focus on building brand awareness engaging students and parents and promoting education and career guidance
 
 ## Project Objectives
--Built awareness of rubber
--Against students and parents
+-Built awareness of Rahbar
+-Engage students and parents
 -Provide valuable education and career related content
 -Establish a consistent social media presence
 
